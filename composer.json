@@ -10,5 +10,8 @@
     ],
     "require-dev": {
         "nette/tester": "@dev"
+    },
+    "autoload": {
+        "files": ["VendorApp.php"]
     }
 }
