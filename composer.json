@@ -1,0 +1,14 @@
+{
+    "name": "motorcb/vendor-app",
+    "description": "Test vendor app Nette",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "motorcb",
+            "email": "motorcb@seznam.cz"
+        }
+    ],
+    "require-dev": {
+        "nette/tester": "@dev"
+    }
+}
