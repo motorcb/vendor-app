@@ -12,6 +12,6 @@
         "nette/tester": "@dev"
     },
     "autoload": {
-        "files": ["VendorApp.php"]
-    }
+		    "classmap": ["src/"]
+    }    
 }
