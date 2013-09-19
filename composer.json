@@ -11,7 +11,7 @@
     "require-dev": {
         "nette/tester": "@dev"
     },
-    "autoload": {
-        "files": ["src/VendorApp.php"]
+  	"autoload": {
+    		"classmap": ["src/"]
     }    
 }
